@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1553424844362' stop='1553424884821'>
+    <name>Test 02: Go to Technology > iPhones &amp; Mobile Phones > iPhones and Add First Two Phones</name>
+    <title>Test 02: Go to Technology > iPhones &amp; Mobile Phones > iPhones and Add First Two Phones</title>
+    <test-cases>
+        <test-case start='1553424844363' status='passed' stop='1553424854726'>
+            <name>Go to Technology > iPhones &amp; Mobile Phones > iPhones</name>
+            <title>Go to Technology > iPhones &amp; Mobile Phones > iPhones</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f6b62757-a512-4cb4-9dc5-a5dd91596a8a-attachment.png' type='image/png' size='215089'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424854726' status='passed' stop='1553424861839'>
+            <name>Add First Two Products to Cart</name>
+            <title>Add First Two Products to Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='03072a14-5c3e-4d30-8440-cd20d0d29174-attachment.png' type='image/png' size='240523'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424861839' status='passed' stop='1553424870973'>
+            <name>Go to the Shoping Cart Page</name>
+            <title>Go to the Shoping Cart Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f103e4e3-7e8a-4dba-b44a-27d1183fdd9a-attachment.png' type='image/png' size='131059'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424870973' status='passed' stop='1553424877517'>
+            <name>Validate Both the Phones are available in the Cart Page </name>
+            <title>Validate Both the Phones are available in the Cart Page </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a1926e40-3889-47df-a430-f2458c32de02-attachment.png' type='image/png' size='131057'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424877517' status='passed' stop='1553424881194'>
+            <name>Remove the 1st Product from the Cart Page</name>
+            <title>Remove the 1st Product from the Cart Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f2560a50-0363-41df-a168-c59cda967cae-attachment.png' type='image/png' size='114201'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424881194' status='passed' stop='1553424884821'>
+            <name>Remove the 2nd Product from the Cart Page</name>
+            <title>Remove the 2nd Product from the Cart Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7a9b5aed-07e2-4b85-9a3a-71236ff895fa-attachment.png' type='image/png' size='72380'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

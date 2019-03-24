@@ -1,0 +1,61 @@
+{
+  "uid" : "9416ff3fd8298560",
+  "name" : "Go to Technology > iPhones & Mobile Phones > iPhones",
+  "fullName" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones.Go to Technology > iPhones & Mobile Phones > iPhones",
+  "historyId" : "8d1a1dccbf7e7b02cbcc1b888edc816f",
+  "time" : {
+    "start" : 1553424844363,
+    "stop" : 1553424854726,
+    "duration" : 10363
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "827566eccb3175df",
+      "name" : "Screenshot",
+      "source" : "827566eccb3175df.png",
+      "type" : "image/png",
+      "size" : 215089
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones"
+  }, {
+    "name" : "testClass",
+    "value" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones"
+  }, {
+    "name" : "testMethod",
+    "value" : "Go to Technology > iPhones & Mobile Phones > iPhones"
+  }, {
+    "name" : "package",
+    "value" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9416ff3fd8298560.json",
+  "parameterValues" : [ ]
+}

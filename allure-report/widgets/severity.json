@@ -1,0 +1,141 @@
+[ {
+  "uid" : "cdd2fe079168e367",
+  "name" : "Input the Email address",
+  "time" : {
+    "start" : 1553424828895,
+    "stop" : 1553424833013,
+    "duration" : 4118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "826f428637439720",
+  "name" : "Remove the 2nd Product from the Cart Page",
+  "time" : {
+    "start" : 1553424881194,
+    "stop" : 1553424884821,
+    "duration" : 3627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23246af6c992a33c",
+  "name" : "Open the Officeworks Home page",
+  "time" : {
+    "start" : 1553424821994,
+    "stop" : 1553424828895,
+    "duration" : 6901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70141d0eaf22ebab",
+  "name" : "Input the Password",
+  "time" : {
+    "start" : 1553424833013,
+    "stop" : 1553424836740,
+    "duration" : 3727
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bc39930e477af1",
+  "name" : "Click on the Officeworks Top Logo",
+  "time" : {
+    "start" : 1553424884830,
+    "stop" : 1553424893560,
+    "duration" : 8730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3de2ac87bddf4ad6",
+  "name" : "Validate Login Button is Displayed",
+  "time" : {
+    "start" : 1553424897275,
+    "stop" : 1553424900860,
+    "duration" : 3585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0862803f39848ef",
+  "name" : "Validate Both the Phones are available in the Cart Page ",
+  "time" : {
+    "start" : 1553424870973,
+    "stop" : 1553424877517,
+    "duration" : 6544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5d5ab695e56d94",
+  "name" : "Add First Two Products to Cart",
+  "time" : {
+    "start" : 1553424854726,
+    "stop" : 1553424861839,
+    "duration" : 7113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6aa3bc28e4141a8d",
+  "name" : "Validate Logout Button is Displayed",
+  "time" : {
+    "start" : 1553424840706,
+    "stop" : 1553424844343,
+    "duration" : 3637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "922ff44a8341961f",
+  "name" : "Click on the Login button",
+  "time" : {
+    "start" : 1553424836740,
+    "stop" : 1553424840706,
+    "duration" : 3966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b09dfd2bd04a1e70",
+  "name" : "Logout from the System",
+  "time" : {
+    "start" : 1553424893560,
+    "stop" : 1553424897275,
+    "duration" : 3715
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9416ff3fd8298560",
+  "name" : "Go to Technology > iPhones & Mobile Phones > iPhones",
+  "time" : {
+    "start" : 1553424844363,
+    "stop" : 1553424854726,
+    "duration" : 10363
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f6e0daa387aae4f",
+  "name" : "Go to the Shoping Cart Page",
+  "time" : {
+    "start" : 1553424861839,
+    "stop" : 1553424870973,
+    "duration" : 9134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8351b1f4555551f6",
+  "name" : "Remove the 1st Product from the Cart Page",
+  "time" : {
+    "start" : 1553424877517,
+    "stop" : 1553424881194,
+    "duration" : 3677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

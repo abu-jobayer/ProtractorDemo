@@ -1,0 +1,61 @@
+{
+  "uid" : "6aa3bc28e4141a8d",
+  "name" : "Validate Logout Button is Displayed",
+  "fullName" : "Test 01: Login to the Officeworks website with right Crdential.Validate Logout Button is Displayed",
+  "historyId" : "98272aef758235cc15aa0393cebd5c51",
+  "time" : {
+    "start" : 1553424840706,
+    "stop" : 1553424844343,
+    "duration" : 3637
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cdb9d7b1b3fc9514",
+      "name" : "Screenshot",
+      "source" : "cdb9d7b1b3fc9514.png",
+      "type" : "image/png",
+      "size" : 651359
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "testClass",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate Logout Button is Displayed"
+  }, {
+    "name" : "package",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6aa3bc28e4141a8d.json",
+  "parameterValues" : [ ]
+}

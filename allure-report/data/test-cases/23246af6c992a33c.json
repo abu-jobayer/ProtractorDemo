@@ -1,0 +1,61 @@
+{
+  "uid" : "23246af6c992a33c",
+  "name" : "Open the Officeworks Home page",
+  "fullName" : "Test 01: Login to the Officeworks website with right Crdential.Open the Officeworks Home page",
+  "historyId" : "dd26d8690a0c76f390afe3b57aafa459",
+  "time" : {
+    "start" : 1553424821994,
+    "stop" : 1553424828895,
+    "duration" : 6901
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e8bd4f895e4310db",
+      "name" : "Screenshot",
+      "source" : "e8bd4f895e4310db.png",
+      "type" : "image/png",
+      "size" : 648831
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "testClass",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open the Officeworks Home page"
+  }, {
+    "name" : "package",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23246af6c992a33c.json",
+  "parameterValues" : [ ]
+}

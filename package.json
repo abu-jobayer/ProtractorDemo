@@ -1,0 +1,35 @@
+{
+	"name": "protractor",
+	"version": "1.0.0",
+	"description": "SeleniumProtractor",
+	"main": "conf.js",
+	"author": {
+		"name": "Raman",
+		"email": "abuingogo@gmail.com"
+	},
+	"scripts": {
+		"protractortest": "protractor conf.js",
+		"report": "allure generate allure-results --clean -o allure-report || true"
+	},
+	"devDependencies": {
+		"astrolabe": "0.3.6",
+		"babel-cli": "^6.26.0",
+		"babel-core": "^6.26.3",
+		"babel-plugin-transform-runtime": "^6.15.0",
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-es2015": "^6.24.1",
+		"babel-register": "^6.26.0",
+		"exceljs": "^1.7.0",
+		"jasmine-allure-reporter": "^1.0.2",
+		"jasmine-reporters": "2.0.0",
+		"protractor": "^5.4.2",
+		"selenium-webdriver": "^3.6.0",
+		"winston": "1.0.1"
+	},
+	"dependencies": {
+		"allure-commandline": "^2.9.0",
+		"path": "^0.12.7",
+		"promise": "^7.0.4",
+		"xlsx": "^0.14.1"
+	}
+}

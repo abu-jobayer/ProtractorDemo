@@ -1,0 +1,61 @@
+{
+  "uid" : "8351b1f4555551f6",
+  "name" : "Remove the 1st Product from the Cart Page",
+  "fullName" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones.Remove the 1st Product from the Cart Page",
+  "historyId" : "f8b55885b3eb06b57eed97e9c08864a2",
+  "time" : {
+    "start" : 1553424877517,
+    "stop" : 1553424881194,
+    "duration" : 3677
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c86089cc28a8e140",
+      "name" : "Screenshot",
+      "source" : "c86089cc28a8e140.png",
+      "type" : "image/png",
+      "size" : 114201
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones"
+  }, {
+    "name" : "testClass",
+    "value" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones"
+  }, {
+    "name" : "testMethod",
+    "value" : "Remove the 1st Product from the Cart Page"
+  }, {
+    "name" : "package",
+    "value" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8351b1f4555551f6.json",
+  "parameterValues" : [ ]
+}

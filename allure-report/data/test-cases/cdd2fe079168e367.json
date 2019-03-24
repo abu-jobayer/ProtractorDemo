@@ -1,0 +1,61 @@
+{
+  "uid" : "cdd2fe079168e367",
+  "name" : "Input the Email address",
+  "fullName" : "Test 01: Login to the Officeworks website with right Crdential.Input the Email address",
+  "historyId" : "8438f91de92b321431ddaf81d876c61d",
+  "time" : {
+    "start" : 1553424828895,
+    "stop" : 1553424833013,
+    "duration" : 4118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cc7cb3a2faa751d3",
+      "name" : "Screenshot",
+      "source" : "cc7cb3a2faa751d3.png",
+      "type" : "image/png",
+      "size" : 504918
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "testClass",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "testMethod",
+    "value" : "Input the Email address"
+  }, {
+    "name" : "package",
+    "value" : "Test 01: Login to the Officeworks website with right Crdential"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdd2fe079168e367.json",
+  "parameterValues" : [ ]
+}

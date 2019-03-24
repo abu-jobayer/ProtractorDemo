@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1553424884830' stop='1553424900860'>
+    <name>Test 03: Logout from the Officeworks website</name>
+    <title>Test 03: Logout from the Officeworks website</title>
+    <test-cases>
+        <test-case start='1553424884830' status='passed' stop='1553424893560'>
+            <name>Click on the Officeworks Top Logo</name>
+            <title>Click on the Officeworks Top Logo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7a912038-2221-472f-ba37-bc3ccf310548-attachment.png' type='image/png' size='506135'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424893560' status='passed' stop='1553424897275'>
+            <name>Logout from the System</name>
+            <title>Logout from the System</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='90b57d15-e1f7-4834-8bf8-eb3d5405d8a2-attachment.png' type='image/png' size='521135'/>
+            </attachments>
+        </test-case>
+        <test-case start='1553424897275' status='passed' stop='1553424900860'>
+            <name>Validate Login Button is Displayed</name>
+            <title>Validate Login Button is Displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='565d8a66-1a9e-4b05-bb40-fe0755cf96bf-attachment.png' type='image/png' size='521135'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
