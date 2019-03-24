@@ -15,7 +15,6 @@ module.exports = {
         logoutButton: element(by.xpath("//a[contains(text(),'Log out')]"))
     },  
 
-    
 
 //Methods for Navigation
 
