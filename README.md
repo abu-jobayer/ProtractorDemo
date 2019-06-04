@@ -4,7 +4,7 @@
 2. Instal JDE in your system
 3. Use npm install to install all the package necessary for this test through package.json
 
-# Can setup all the package as well:
+## Can setup all the package as well:
 1. Install Protractor globally by execute: npm install -g protractor 
 2. Update the Webdriver library of Selenium: webdriver-manager update
 3. Setup Jesmine Allure Report: npm i jasmine-allure-reporter
