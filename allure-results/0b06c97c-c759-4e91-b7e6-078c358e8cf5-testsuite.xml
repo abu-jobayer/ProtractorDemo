@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559670134517' stop='1559670145340'>
+    <name>AC: 5</name>
+    <title>AC: 5</title>
+    <test-cases>
+        <test-case start='1559670134517' status='passed' stop='1559670135131'>
+            <name>Given I am on the homepage</name>
+            <title>Given I am on the homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='78975e65-4f69-44a5-bb63-55c781a879c6-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559670135132' status='passed' stop='1559670139156'>
+            <name>When When I click on the themes link</name>
+            <title>When When I click on the themes link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d6a66554-ae95-4e98-84f8-2d33c877aa84-attachment.png' type='image/png' size='47172'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559670139156' status='passed' stop='1559670139856'>
+            <name>then click on the dark mode theme button</name>
+            <title>then click on the dark mode theme button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='155d189f-4609-434a-8eba-07f56a02302b-attachment.png' type='image/png' size='52282'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559670139856' status='passed' stop='1559670145340'>
+            <name>Then My page background should change colour</name>
+            <title>Then My page background should change colour</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='79207402-3879-486f-8591-c3b4f34f9d1a-attachment.png' type='image/png' size='50295'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
