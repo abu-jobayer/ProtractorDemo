@@ -1,0 +1,61 @@
+{
+  "uid" : "b98fa7509e0d20e7",
+  "name" : "Then I expect the first result to be \"supercalafragalisticexpialadoshus\"",
+  "fullName" : "AC: 3.Then I expect the first result to be \"supercalafragalisticexpialadoshus\"",
+  "historyId" : "d8c79dfcbdd5609242c38f51c67a2eef",
+  "time" : {
+    "start" : 1559667497669,
+    "stop" : 1559667503212,
+    "duration" : 5543
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8e6b40f8f5fd8486",
+      "name" : "Screenshot",
+      "source" : "8e6b40f8f5fd8486.png",
+      "type" : "image/png",
+      "size" : 210650
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 3"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect the first result to be \"supercalafragalisticexpialadoshus\""
+  }, {
+    "name" : "package",
+    "value" : "AC: 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b98fa7509e0d20e7.json",
+  "parameterValues" : [ ]
+}

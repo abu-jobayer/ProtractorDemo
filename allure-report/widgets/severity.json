@@ -1,140 +1,160 @@
 [ {
-  "uid" : "cdd2fe079168e367",
-  "name" : "Input the Email address",
+  "uid" : "437b76040890d8cd",
+  "name" : "Given I am on the homepage",
   "time" : {
-    "start" : 1553424828895,
-    "stop" : 1553424833013,
-    "duration" : 4118
+    "start" : 1559667503220,
+    "stop" : 1559667503840,
+    "duration" : 620
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "826f428637439720",
-  "name" : "Remove the 2nd Product from the Cart Page",
+  "uid" : "777a9c3cf0c4c5d1",
+  "name" : "then click on the dark mode theme button",
   "time" : {
-    "start" : 1553424881194,
-    "stop" : 1553424884821,
-    "duration" : 3627
+    "start" : 1559667509568,
+    "stop" : 1559667510261,
+    "duration" : 693
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "23246af6c992a33c",
-  "name" : "Open the Officeworks Home page",
+  "uid" : "9dc6b6b71da1b93d",
+  "name" : "Given I am on the homepage",
   "time" : {
-    "start" : 1553424821994,
-    "stop" : 1553424828895,
-    "duration" : 6901
+    "start" : 1559667476872,
+    "stop" : 1559667481149,
+    "duration" : 4277
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "70141d0eaf22ebab",
-  "name" : "Input the Password",
+  "uid" : "69527afef151e52a",
+  "name" : "When When I click on the themes link",
   "time" : {
-    "start" : 1553424833013,
-    "stop" : 1553424836740,
-    "duration" : 3727
+    "start" : 1559667505544,
+    "stop" : 1559667509568,
+    "duration" : 4024
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5bc39930e477af1",
-  "name" : "Click on the Officeworks Top Logo",
+  "uid" : "3e0280166c61ecee",
+  "name" : "When I type \"supercalafragalistic\" into the search box",
   "time" : {
-    "start" : 1553424884830,
-    "stop" : 1553424893560,
-    "duration" : 8730
+    "start" : 1559667495491,
+    "stop" : 1559667497669,
+    "duration" : 2178
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3de2ac87bddf4ad6",
-  "name" : "Validate Login Button is Displayed",
+  "uid" : "5506ef1b3dc43646",
+  "name" : "Then I expect to see exactly 10 suggestions in the typeahead dropdown",
   "time" : {
-    "start" : 1553424897275,
-    "stop" : 1553424900860,
-    "duration" : 3585
+    "start" : 1559667489409,
+    "stop" : 1559667494890,
+    "duration" : 5481
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b0862803f39848ef",
-  "name" : "Validate Both the Phones are available in the Cart Page ",
+  "uid" : "698c0805bd53c8f1",
+  "name" : "Given I am on the homepage",
   "time" : {
-    "start" : 1553424870973,
-    "stop" : 1553424877517,
-    "duration" : 6544
+    "start" : 1559667494900,
+    "stop" : 1559667495491,
+    "duration" : 591
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b5d5ab695e56d94",
-  "name" : "Add First Two Products to Cart",
+  "uid" : "2124c28b2fa6ed91",
+  "name" : "Then I expect to see a themes link",
   "time" : {
-    "start" : 1553424854726,
-    "stop" : 1553424861839,
-    "duration" : 7113
+    "start" : 1559667504374,
+    "stop" : 1559667504863,
+    "duration" : 489
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6aa3bc28e4141a8d",
-  "name" : "Validate Logout Button is Displayed",
+  "uid" : "34e282e340d559a3",
+  "name" : "When I click on the hamburger menu in the top right",
   "time" : {
-    "start" : 1553424840706,
-    "stop" : 1553424844343,
-    "duration" : 3637
+    "start" : 1559667503841,
+    "stop" : 1559667504374,
+    "duration" : 533
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "922ff44a8341961f",
-  "name" : "Click on the Login button",
+  "uid" : "e4bcc852a6d8207b",
+  "name" : "Given I am on the homepage",
   "time" : {
-    "start" : 1553424836740,
-    "stop" : 1553424840706,
-    "duration" : 3966
+    "start" : 1559667485093,
+    "stop" : 1559667485771,
+    "duration" : 678
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b09dfd2bd04a1e70",
-  "name" : "Logout from the System",
+  "uid" : "5d964eac36a85e8",
+  "name" : "Then I expect to see the duckduckgo logo on the page",
   "time" : {
-    "start" : 1553424893560,
-    "stop" : 1553424897275,
-    "duration" : 3715
+    "start" : 1559667484637,
+    "stop" : 1559667485073,
+    "duration" : 436
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9416ff3fd8298560",
-  "name" : "Go to Technology > iPhones & Mobile Phones > iPhones",
+  "uid" : "9bcc3e454f37887",
+  "name" : "When I look at the page",
   "time" : {
-    "start" : 1553424844363,
-    "stop" : 1553424854726,
-    "duration" : 10363
+    "start" : 1559667481150,
+    "stop" : 1559667484637,
+    "duration" : 3487
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6f6e0daa387aae4f",
-  "name" : "Go to the Shoping Cart Page",
+  "uid" : "e249f2a866f7effe",
+  "name" : "Given I am on the homepage",
   "time" : {
-    "start" : 1553424861839,
-    "stop" : 1553424870973,
-    "duration" : 9134
+    "start" : 1559667504869,
+    "stop" : 1559667505544,
+    "duration" : 675
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8351b1f4555551f6",
-  "name" : "Remove the 1st Product from the Cart Page",
+  "uid" : "43eaf6425a8c4712",
+  "name" : "Then My page background should change colour",
   "time" : {
-    "start" : 1553424877517,
-    "stop" : 1553424881194,
-    "duration" : 3677
+    "start" : 1559667510261,
+    "stop" : 1559667515749,
+    "duration" : 5488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b98fa7509e0d20e7",
+  "name" : "Then I expect the first result to be \"supercalafragalisticexpialadoshus\"",
+  "time" : {
+    "start" : 1559667497669,
+    "stop" : 1559667503212,
+    "duration" : 5543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc82a235002b735b",
+  "name" : "When I type \"super\" into the search box",
+  "time" : {
+    "start" : 1559667485771,
+    "stop" : 1559667489409,
+    "duration" : 3638
   },
   "status" : "passed",
   "severity" : "normal"

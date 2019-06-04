@@ -5,7 +5,7 @@ exports.config = {
     //seleniumAddress: 'http://localhost:4444/wd/hub',
     directConnect: true,
 
-    //Capabilities tto run the test
+    //Capabilities to run the test
     Capabilities: {
       'browserName': 'chrome'
     },
@@ -13,14 +13,15 @@ exports.config = {
     //Framework which is using
     framework: 'jasmine2',
 
-    specs: ['specs/addContents.js'],
+    specs: ['specs/duck*.js'],
     jasmineNodeOpts: {
       defaultTimeoutInterval: 30000
     },
 
     // Base URL of the website
-    baseUrl: 'https://www.officeworks.com.au/',
+    // baseUrl: 'https://www.officeworks.com.au/',
 
+    //Time out 
     allScriptsTimeout: 30000,
 
     onPrepare: function() {

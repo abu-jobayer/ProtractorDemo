@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559667503220' stop='1559667504863'>
+    <name>AC: 4</name>
+    <title>AC: 4</title>
+    <test-cases>
+        <test-case start='1559667503220' status='passed' stop='1559667503840'>
+            <name>Given I am on the homepage</name>
+            <title>Given I am on the homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='592678e5-c9bc-4da7-827c-060017694ddb-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559667503841' status='passed' stop='1559667504374'>
+            <name>When I click on the hamburger menu in the top right</name>
+            <title>When I click on the hamburger menu in the top right</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ede27516-a12d-4891-a4d1-3a8723e19a8c-attachment.png' type='image/png' size='66589'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559667504374' status='passed' stop='1559667504863'>
+            <name>Then I expect to see a themes link</name>
+            <title>Then I expect to see a themes link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c93e648b-d398-48b8-8db8-1f8f914fe204-attachment.png' type='image/png' size='63040'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

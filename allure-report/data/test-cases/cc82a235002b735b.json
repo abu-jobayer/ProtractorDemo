@@ -1,0 +1,61 @@
+{
+  "uid" : "cc82a235002b735b",
+  "name" : "When I type \"super\" into the search box",
+  "fullName" : "AC: 2.When I type \"super\" into the search box",
+  "historyId" : "aa0411a2224d63a4addc18943ae72a9c",
+  "time" : {
+    "start" : 1559667485771,
+    "stop" : 1559667489409,
+    "duration" : 3638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ed2aa6fba32edbee",
+      "name" : "Screenshot",
+      "source" : "ed2aa6fba32edbee.png",
+      "type" : "image/png",
+      "size" : 44887
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 2"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I type \"super\" into the search box"
+  }, {
+    "name" : "package",
+    "value" : "AC: 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc82a235002b735b.json",
+  "parameterValues" : [ ]
+}

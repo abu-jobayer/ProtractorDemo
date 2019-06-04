@@ -1,30 +1,52 @@
 {
-  "total" : 3,
+  "total" : 5,
   "items" : [ {
-    "uid" : "e5faaedaf23ff904e69d6074263112e5",
-    "name" : "Test 02: Go to Technology > iPhones & Mobile Phones > iPhones and Add First Two Phones",
+    "uid" : "8aac47485f1120c2f31300f0ce223da0",
+    "name" : "AC: 5",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 6
+      "total" : 4
     }
   }, {
-    "uid" : "32778baa35c271fb38c754a1ae5fc428",
-    "name" : "Test 01: Login to the Officeworks website with right Crdential",
+    "uid" : "feef6c70e16dd42fb55d5c3a00b04476",
+    "name" : "AC: 1",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 5
+      "total" : 3
     }
   }, {
-    "uid" : "0ff3c5da95c99dc0312e7407bc353e00",
-    "name" : "Test 03: Logout from the Officeworks website",
+    "uid" : "732e90b9407c592c8d834809704a977d",
+    "name" : "AC: 2",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "3aa75b9a984bbfc85ded7daba2fbe55f",
+    "name" : "AC: 3",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "4d5ac2c13c17889253da8e1866e91a7c",
+    "name" : "AC: 4",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

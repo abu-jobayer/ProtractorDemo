@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559667476871' stop='1559667485074'>
+    <name>AC: 1</name>
+    <title>AC: 1</title>
+    <test-cases>
+        <test-case start='1559667476872' status='passed' stop='1559667481149'>
+            <name>Given I am on the homepage</name>
+            <title>Given I am on the homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4b16a860-7e96-485d-ba65-9a322dbb1247-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559667481150' status='passed' stop='1559667484637'>
+            <name>When I look at the page</name>
+            <title>When I look at the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='80ec9121-77c9-406e-bdae-e678f17890c1-attachment.png' type='image/png' size='36178'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559667484637' status='passed' stop='1559667485073'>
+            <name>Then I expect to see the duckduckgo logo on the page</name>
+            <title>Then I expect to see the duckduckgo logo on the page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ad91f4c0-c912-4815-b706-04436a6c19d6-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

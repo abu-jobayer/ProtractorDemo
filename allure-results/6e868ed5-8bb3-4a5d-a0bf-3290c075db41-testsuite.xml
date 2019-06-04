@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559667485093' stop='1559667494890'>
+    <name>AC: 2</name>
+    <title>AC: 2</title>
+    <test-cases>
+        <test-case start='1559667485093' status='passed' stop='1559667485771'>
+            <name>Given I am on the homepage</name>
+            <title>Given I am on the homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3eb6a1e7-973f-4be9-931f-76606caa2da4-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559667485771' status='passed' stop='1559667489409'>
+            <name>When I type "super" into the search box</name>
+            <title>When I type "super" into the search box</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dd70b830-6b53-46d3-a13e-7080845d94f0-attachment.png' type='image/png' size='44887'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559667489409' status='passed' stop='1559667494890'>
+            <name>Then I expect to see exactly 10 suggestions in the typeahead dropdown</name>
+            <title>Then I expect to see exactly 10 suggestions in the typeahead dropdown</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7acaaf9e-092f-458f-925c-9966a5030a27-attachment.png' type='image/png' size='44887'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

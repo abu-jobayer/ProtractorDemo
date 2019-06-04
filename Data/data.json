@@ -1,5 +1,20 @@
-
 {
-    "emailAddress":"abc@gmail.com",
-    "password":"123@abc"
+    "ducduckgoHomeURL": "https://start.duckduckgo.com",
+    "searchInput1": "super",
+    "searchInput2": "supercalafragalistic",
+    "searchResult2": "https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious",
+    
+    "moviesdetails": {
+        "movie1": "Back to the future",
+        "movie2": "BMX Bandits",
+        "movie3": "Rocky IV",
+        "movie4": "Short Circuit",
+        "movie5": "The Terminator",
+        "movie6": "Ferris Bueller's day off"
+    },
+
+    "locators": {
+        "searchInputBox": "//input[@id='search_form_input_homepage']"
+        
+    }
 }

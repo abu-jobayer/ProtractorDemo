@@ -1,0 +1,61 @@
+{
+  "uid" : "69527afef151e52a",
+  "name" : "When When I click on the themes link",
+  "fullName" : "AC: 5.When When I click on the themes link",
+  "historyId" : "4fc44277fbdfb77c64bb9ac8bfab58e1",
+  "time" : {
+    "start" : 1559667505544,
+    "stop" : 1559667509568,
+    "duration" : 4024
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8fd11a9e67e38011",
+      "name" : "Screenshot",
+      "source" : "8fd11a9e67e38011.png",
+      "type" : "image/png",
+      "size" : 47172
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 5"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 5"
+  }, {
+    "name" : "testMethod",
+    "value" : "When When I click on the themes link"
+  }, {
+    "name" : "package",
+    "value" : "AC: 5"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69527afef151e52a.json",
+  "parameterValues" : [ ]
+}
