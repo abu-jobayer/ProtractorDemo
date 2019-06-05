@@ -1,0 +1,77 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559743594736' stop='1559743652481'>
+    <name>AC: 6</name>
+    <title>AC: 6</title>
+    <test-cases>
+        <test-case start='1559743594737' status='passed' stop='1559743597455'>
+            <name>Given I am on the homepage</name>
+            <title>Given I am on the homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b7615bf8-3dfa-4fa0-ac51-c5034886e1d4-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559743597455' status='passed' stop='1559743607095'>
+            <name>Validate All Search Result should get 10 results on the results page</name>
+            <title>Validate All Search Result should get 10 results on the results page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2d611909-9149-417f-be5c-ccaf5fd09656-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559743607095' status='passed' stop='1559743616221'>
+            <name>Validate All Search Result should get 10 results on the results page</name>
+            <title>Validate All Search Result should get 10 results on the results page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d494d445-2a0c-43c6-bb75-8dd0cdd1fe48-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559743616221' status='passed' stop='1559743625510'>
+            <name>Validate All Search Result should get 10 results on the results page</name>
+            <title>Validate All Search Result should get 10 results on the results page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='87ab566b-0af6-4aba-83a6-f9d4f979fd51-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559743625510' status='passed' stop='1559743634807'>
+            <name>Validate All Search Result should get 10 results on the results page</name>
+            <title>Validate All Search Result should get 10 results on the results page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='08d2881a-3b62-4927-881e-c19dd9a5b179-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559743634807' status='passed' stop='1559743643359'>
+            <name>Validate All Search Result should get 10 results on the results page</name>
+            <title>Validate All Search Result should get 10 results on the results page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='626f2369-38c9-4604-bec3-417e8c96054d-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559743643359' status='passed' stop='1559743652480'>
+            <name>Validate All Search Result should get 10 results on the results page</name>
+            <title>Validate All Search Result should get 10 results on the results page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6d57d9a0-341a-4635-b6b0-ffe29c5e608e-attachment.png' type='image/png' size='36233'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

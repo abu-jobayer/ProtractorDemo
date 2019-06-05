@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559749245766' stop='1559749252133'>
+    <name>AC: 7</name>
+    <title>AC: 7</title>
+    <test-cases>
+        <test-case start='1559749245766' status='passed' stop='1559749246989'>
+            <name>Given I am on the traffic page</name>
+            <title>Given I am on the traffic page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e032b4bb-63a9-42be-bc28-14628e7152a3-attachment.png' type='image/png' size='71296'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559749246989' status='passed' stop='1559749247687'>
+            <name>When I click on the 2018 Traffic section</name>
+            <title>When I click on the 2018 Traffic section</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='493cb135-08c9-48e4-8484-db57dc52522a-attachment.png' type='image/png' size='91040'/>
+            </attachments>
+        </test-case>
+        <test-case start='1559749247687' status='passed' stop='1559749252133'>
+            <name>Then I should see all the months listed in the order from Dec to Jan</name>
+            <title>Then I should see all the months listed in the order from Dec to Jan</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='782573b3-5a94-4cd2-a177-10fccae158c6-attachment.png' type='image/png' size='91040'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

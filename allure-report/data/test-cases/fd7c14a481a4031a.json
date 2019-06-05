@@ -1,0 +1,61 @@
+{
+  "uid" : "fd7c14a481a4031a",
+  "name" : "When I click on the 2018 Traffic section",
+  "fullName" : "AC: 7.When I click on the 2018 Traffic section",
+  "historyId" : "2f9586ccabd38b5e17b1e0de564e3674",
+  "time" : {
+    "start" : 1559749246989,
+    "stop" : 1559749247687,
+    "duration" : 698
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bc0817955a108b8c",
+      "name" : "Screenshot",
+      "source" : "bc0817955a108b8c.png",
+      "type" : "image/png",
+      "size" : 91040
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 7"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 7"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on the 2018 Traffic section"
+  }, {
+    "name" : "package",
+    "value" : "AC: 7"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd7c14a481a4031a.json",
+  "parameterValues" : [ ]
+}

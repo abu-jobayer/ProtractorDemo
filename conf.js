@@ -13,7 +13,7 @@ exports.config = {
     //Framework which is using
     framework: 'jasmine2',
 
-    specs: ['specs/duck*.js'],
+    specs: ['specs/duckduckgoSearch2.js'],
     jasmineNodeOpts: {
       defaultTimeoutInterval: 30000
     },

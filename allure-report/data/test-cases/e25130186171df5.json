@@ -1,0 +1,59 @@
+{
+  "uid" : "e25130186171df5",
+  "name" : "Given I am on the homepage",
+  "fullName" : "AC: 6.Given I am on the homepage",
+  "historyId" : "3c1a2e338977a2c3fcc407adc82bda68",
+  "time" : {
+    "start" : 1559743724554,
+    "stop" : 1559743727819,
+    "duration" : 3265
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70bb1e604385bfb8",
+      "name" : "Screenshot",
+      "source" : "70bb1e604385bfb8.png",
+      "type" : "image/png",
+      "size" : 36233
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 6"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 6"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "AC: 6"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e25130186171df5.json",
+  "parameterValues" : [ ]
+}

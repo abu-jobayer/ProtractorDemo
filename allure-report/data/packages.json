@@ -2,216 +2,72 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "AC: 1",
+    "name" : "AC: 6",
     "children" : [ {
       "name" : "Given I am on the homepage",
-      "uid" : "9dc6b6b71da1b93d",
-      "parentUid" : "fc9ffe8e54df8c29b834bbacbc8c5bab",
+      "uid" : "953cbfdedd8c37af",
+      "parentUid" : "eeea1ccbfcc5601bf7ee93d598127980",
       "status" : "passed",
       "time" : {
-        "start" : 1559667476872,
-        "stop" : 1559667481149,
-        "duration" : 4277
+        "start" : 1559749191990,
+        "stop" : 1559749194786,
+        "duration" : 2796
       },
       "flaky" : false,
       "parameters" : [ ]
     }, {
-      "name" : "When I look at the page",
-      "uid" : "9bcc3e454f37887",
-      "parentUid" : "fc9ffe8e54df8c29b834bbacbc8c5bab",
+      "name" : "Validate All Search Result should get 10 results on the results page",
+      "uid" : "d6771bd6a02f2055",
+      "parentUid" : "eeea1ccbfcc5601bf7ee93d598127980",
       "status" : "passed",
       "time" : {
-        "start" : 1559667481150,
-        "stop" : 1559667484637,
-        "duration" : 3487
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Then I expect to see the duckduckgo logo on the page",
-      "uid" : "5d964eac36a85e8",
-      "parentUid" : "fc9ffe8e54df8c29b834bbacbc8c5bab",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667484637,
-        "stop" : 1559667485073,
-        "duration" : 436
+        "start" : 1559749236887,
+        "stop" : 1559749245746,
+        "duration" : 8859
       },
       "flaky" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "fc9ffe8e54df8c29b834bbacbc8c5bab"
+    "uid" : "eeea1ccbfcc5601bf7ee93d598127980"
   }, {
-    "name" : "AC: 2",
+    "name" : "AC: 7",
     "children" : [ {
-      "name" : "Given I am on the homepage",
-      "uid" : "e4bcc852a6d8207b",
-      "parentUid" : "0b3c31947e98f6cf4a2801d8530bb09f",
+      "name" : "Given I am on the traffic page",
+      "uid" : "e8881af53f158127",
+      "parentUid" : "075b9976c6a332d698aedea25b022a6c",
       "status" : "passed",
       "time" : {
-        "start" : 1559667485093,
-        "stop" : 1559667485771,
-        "duration" : 678
+        "start" : 1559749245766,
+        "stop" : 1559749246989,
+        "duration" : 1223
       },
       "flaky" : false,
       "parameters" : [ ]
     }, {
-      "name" : "When I type \"super\" into the search box",
-      "uid" : "cc82a235002b735b",
-      "parentUid" : "0b3c31947e98f6cf4a2801d8530bb09f",
+      "name" : "When I click on the 2018 Traffic section",
+      "uid" : "fd7c14a481a4031a",
+      "parentUid" : "075b9976c6a332d698aedea25b022a6c",
       "status" : "passed",
       "time" : {
-        "start" : 1559667485771,
-        "stop" : 1559667489409,
-        "duration" : 3638
+        "start" : 1559749246989,
+        "stop" : 1559749247687,
+        "duration" : 698
       },
       "flaky" : false,
       "parameters" : [ ]
     }, {
-      "name" : "Then I expect to see exactly 10 suggestions in the typeahead dropdown",
-      "uid" : "5506ef1b3dc43646",
-      "parentUid" : "0b3c31947e98f6cf4a2801d8530bb09f",
+      "name" : "Then I should see all the months listed in the order from Dec to Jan",
+      "uid" : "f470867993c49908",
+      "parentUid" : "075b9976c6a332d698aedea25b022a6c",
       "status" : "passed",
       "time" : {
-        "start" : 1559667489409,
-        "stop" : 1559667494890,
-        "duration" : 5481
+        "start" : 1559749247687,
+        "stop" : 1559749252133,
+        "duration" : 4446
       },
       "flaky" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "0b3c31947e98f6cf4a2801d8530bb09f"
-  }, {
-    "name" : "AC: 3",
-    "children" : [ {
-      "name" : "Given I am on the homepage",
-      "uid" : "698c0805bd53c8f1",
-      "parentUid" : "6d2afbde05b44341571ad7fa9bf7df6a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667494900,
-        "stop" : 1559667495491,
-        "duration" : 591
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "When I type \"supercalafragalistic\" into the search box",
-      "uid" : "3e0280166c61ecee",
-      "parentUid" : "6d2afbde05b44341571ad7fa9bf7df6a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667495491,
-        "stop" : 1559667497669,
-        "duration" : 2178
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Then I expect the first result to be \"supercalafragalisticexpialadoshus\"",
-      "uid" : "b98fa7509e0d20e7",
-      "parentUid" : "6d2afbde05b44341571ad7fa9bf7df6a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667497669,
-        "stop" : 1559667503212,
-        "duration" : 5543
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "6d2afbde05b44341571ad7fa9bf7df6a"
-  }, {
-    "name" : "AC: 4",
-    "children" : [ {
-      "name" : "Given I am on the homepage",
-      "uid" : "437b76040890d8cd",
-      "parentUid" : "4023e6a917ced700fed30bce50b8bb29",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667503220,
-        "stop" : 1559667503840,
-        "duration" : 620
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "When I click on the hamburger menu in the top right",
-      "uid" : "34e282e340d559a3",
-      "parentUid" : "4023e6a917ced700fed30bce50b8bb29",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667503841,
-        "stop" : 1559667504374,
-        "duration" : 533
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Then I expect to see a themes link",
-      "uid" : "2124c28b2fa6ed91",
-      "parentUid" : "4023e6a917ced700fed30bce50b8bb29",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667504374,
-        "stop" : 1559667504863,
-        "duration" : 489
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "4023e6a917ced700fed30bce50b8bb29"
-  }, {
-    "name" : "AC: 5",
-    "children" : [ {
-      "name" : "Given I am on the homepage",
-      "uid" : "e249f2a866f7effe",
-      "parentUid" : "f431775e1dd5d8143c45726f04c747ea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667504869,
-        "stop" : 1559667505544,
-        "duration" : 675
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "When When I click on the themes link",
-      "uid" : "69527afef151e52a",
-      "parentUid" : "f431775e1dd5d8143c45726f04c747ea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667505544,
-        "stop" : 1559667509568,
-        "duration" : 4024
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "then click on the dark mode theme button",
-      "uid" : "777a9c3cf0c4c5d1",
-      "parentUid" : "f431775e1dd5d8143c45726f04c747ea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667509568,
-        "stop" : 1559667510261,
-        "duration" : 693
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "Then My page background should change colour",
-      "uid" : "43eaf6425a8c4712",
-      "parentUid" : "f431775e1dd5d8143c45726f04c747ea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1559667510261,
-        "stop" : 1559667515749,
-        "duration" : 5488
-      },
-      "flaky" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "f431775e1dd5d8143c45726f04c747ea"
+    "uid" : "075b9976c6a332d698aedea25b022a6c"
   } ]
 }

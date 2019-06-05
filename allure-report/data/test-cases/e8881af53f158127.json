@@ -1,0 +1,61 @@
+{
+  "uid" : "e8881af53f158127",
+  "name" : "Given I am on the traffic page",
+  "fullName" : "AC: 7.Given I am on the traffic page",
+  "historyId" : "8dd8a0b042d66caf2a16947cb1bf97ff",
+  "time" : {
+    "start" : 1559749245766,
+    "stop" : 1559749246989,
+    "duration" : 1223
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "456305c59799d0bc",
+      "name" : "Screenshot",
+      "source" : "456305c59799d0bc.png",
+      "type" : "image/png",
+      "size" : 71296
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 7"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 7"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the traffic page"
+  }, {
+    "name" : "package",
+    "value" : "AC: 7"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8881af53f158127.json",
+  "parameterValues" : [ ]
+}

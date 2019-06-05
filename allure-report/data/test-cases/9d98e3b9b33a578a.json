@@ -1,0 +1,59 @@
+{
+  "uid" : "9d98e3b9b33a578a",
+  "name" : "Validate All Search Result should get 10 results on the results page",
+  "fullName" : "AC: 6.Validate All Search Result should get 10 results on the results page",
+  "historyId" : "eba00ddb3d6be656594b756f8cbf5db2",
+  "time" : {
+    "start" : 1559749220716,
+    "stop" : 1559749228832,
+    "duration" : 8116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9bb88afa914b11d3",
+      "name" : "Screenshot",
+      "source" : "9bb88afa914b11d3.png",
+      "type" : "image/png",
+      "size" : 36233
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "AC: 6"
+  }, {
+    "name" : "testClass",
+    "value" : "AC: 6"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate All Search Result should get 10 results on the results page"
+  }, {
+    "name" : "package",
+    "value" : "AC: 6"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d98e3b9b33a578a.json",
+  "parameterValues" : [ ]
+}

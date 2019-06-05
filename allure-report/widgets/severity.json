@@ -1,160 +1,50 @@
 [ {
-  "uid" : "437b76040890d8cd",
+  "uid" : "fd7c14a481a4031a",
+  "name" : "When I click on the 2018 Traffic section",
+  "time" : {
+    "start" : 1559749246989,
+    "stop" : 1559749247687,
+    "duration" : 698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6771bd6a02f2055",
+  "name" : "Validate All Search Result should get 10 results on the results page",
+  "time" : {
+    "start" : 1559749236887,
+    "stop" : 1559749245746,
+    "duration" : 8859
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f470867993c49908",
+  "name" : "Then I should see all the months listed in the order from Dec to Jan",
+  "time" : {
+    "start" : 1559749247687,
+    "stop" : 1559749252133,
+    "duration" : 4446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8881af53f158127",
+  "name" : "Given I am on the traffic page",
+  "time" : {
+    "start" : 1559749245766,
+    "stop" : 1559749246989,
+    "duration" : 1223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "953cbfdedd8c37af",
   "name" : "Given I am on the homepage",
   "time" : {
-    "start" : 1559667503220,
-    "stop" : 1559667503840,
-    "duration" : 620
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "777a9c3cf0c4c5d1",
-  "name" : "then click on the dark mode theme button",
-  "time" : {
-    "start" : 1559667509568,
-    "stop" : 1559667510261,
-    "duration" : 693
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9dc6b6b71da1b93d",
-  "name" : "Given I am on the homepage",
-  "time" : {
-    "start" : 1559667476872,
-    "stop" : 1559667481149,
-    "duration" : 4277
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "69527afef151e52a",
-  "name" : "When When I click on the themes link",
-  "time" : {
-    "start" : 1559667505544,
-    "stop" : 1559667509568,
-    "duration" : 4024
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3e0280166c61ecee",
-  "name" : "When I type \"supercalafragalistic\" into the search box",
-  "time" : {
-    "start" : 1559667495491,
-    "stop" : 1559667497669,
-    "duration" : 2178
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5506ef1b3dc43646",
-  "name" : "Then I expect to see exactly 10 suggestions in the typeahead dropdown",
-  "time" : {
-    "start" : 1559667489409,
-    "stop" : 1559667494890,
-    "duration" : 5481
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "698c0805bd53c8f1",
-  "name" : "Given I am on the homepage",
-  "time" : {
-    "start" : 1559667494900,
-    "stop" : 1559667495491,
-    "duration" : 591
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2124c28b2fa6ed91",
-  "name" : "Then I expect to see a themes link",
-  "time" : {
-    "start" : 1559667504374,
-    "stop" : 1559667504863,
-    "duration" : 489
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "34e282e340d559a3",
-  "name" : "When I click on the hamburger menu in the top right",
-  "time" : {
-    "start" : 1559667503841,
-    "stop" : 1559667504374,
-    "duration" : 533
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e4bcc852a6d8207b",
-  "name" : "Given I am on the homepage",
-  "time" : {
-    "start" : 1559667485093,
-    "stop" : 1559667485771,
-    "duration" : 678
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5d964eac36a85e8",
-  "name" : "Then I expect to see the duckduckgo logo on the page",
-  "time" : {
-    "start" : 1559667484637,
-    "stop" : 1559667485073,
-    "duration" : 436
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9bcc3e454f37887",
-  "name" : "When I look at the page",
-  "time" : {
-    "start" : 1559667481150,
-    "stop" : 1559667484637,
-    "duration" : 3487
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e249f2a866f7effe",
-  "name" : "Given I am on the homepage",
-  "time" : {
-    "start" : 1559667504869,
-    "stop" : 1559667505544,
-    "duration" : 675
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "43eaf6425a8c4712",
-  "name" : "Then My page background should change colour",
-  "time" : {
-    "start" : 1559667510261,
-    "stop" : 1559667515749,
-    "duration" : 5488
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b98fa7509e0d20e7",
-  "name" : "Then I expect the first result to be \"supercalafragalisticexpialadoshus\"",
-  "time" : {
-    "start" : 1559667497669,
-    "stop" : 1559667503212,
-    "duration" : 5543
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cc82a235002b735b",
-  "name" : "When I type \"super\" into the search box",
-  "time" : {
-    "start" : 1559667485771,
-    "stop" : 1559667489409,
-    "duration" : 3638
+    "start" : 1559749191990,
+    "stop" : 1559749194786,
+    "duration" : 2796
   },
   "status" : "passed",
   "severity" : "normal"

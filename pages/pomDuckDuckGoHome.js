@@ -90,30 +90,6 @@ module.exports = {
         this.DuckduckgoHomepage.darkTheme.click();
     },
 
-    // // Return Data from the source 
-    // plusProvider: function () {
-
-    //     return [
-
-    //         {movieName: datasource.moviesdetails.movies1},
-    //         {movieName: datasource.moviesdetails.movies2},
-    //         {movieName: datasource.moviesdetails.movies3},
-    //         {movieName: datasource.moviesdetails.movies4},
-    //         {movieName: datasource.moviesdetails.movies5},
-    //         {movieName: datasource.moviesdetails.movies6},
-    //     ];
-    // },
-
-    // validateSearchResult: using(plusProvider,function(data){
-
-    //         this.DuckduckgoHomepage.searchInputBox.isDisplayed();
-    //         this.DuckduckgoHomepage.searchInputBox.sendKeys(data.movieName);
-    //         this.DuckduckgoHomepage.searchButton.click();
-    //         browser.sleep(3000);
-
-    // //    });
-
-    // }),
 
 
 

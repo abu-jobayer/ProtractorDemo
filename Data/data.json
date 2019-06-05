@@ -1,20 +1,56 @@
 {
     "ducduckgoHomeURL": "https://start.duckduckgo.com",
+    "ducduckgoTraficURL": "https://start.duckduckgo.com/traffic",
     "searchInput1": "super",
     "searchInput2": "supercalafragalistic",
     "searchResult2": "https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious",
-    
-    "moviesdetails": {
-        "movie1": "Back to the future",
-        "movie2": "BMX Bandits",
-        "movie3": "Rocky IV",
-        "movie4": "Short Circuit",
-        "movie5": "The Terminator",
-        "movie6": "Ferris Bueller's day off"
-    },
 
-    "locators": {
-        "searchInputBox": "//input[@id='search_form_input_homepage']"
-        
-    }
+    "movie1": "Back to the future",
+    "movie2": "BMX Bandits",
+    "movie3": "Rocky IV",
+    "movie4": "Short Circuit",
+    "movie5": "The Terminator",
+    "movie6": "Ferris Bueller's day off",
+
+    "searchBox": "//input[@id='search_form_input_homepage']",
+    "searchButton": "//input[@id='search_button_homepage']",
+    "result10": "//div[@id='r1-9']",
+
+    "mainDQ": "//div[3]/div[1]/div[1]/div[2]/h2[1]",
+
+    "decDQ": "//div[3]/div[1]/div[2]/div[1]/div[2]/h2[1]",
+    "novDQ": "//div[3]/div[1]/div[3]/div[1]/div[2]/h2[1]",
+    "octDQ": "//div[3]/div[1]/div[4]/div[1]/div[2]/h2[1]",
+    "sepDQ": "//div[3]/div[1]/div[5]/div[1]/div[2]/h2[1]",
+    "augDQ": "//div[3]/div[1]/div[6]/div[1]/div[2]/h2[1]",
+    "julDQ": "//div[3]/div[1]/div[7]/div[1]/div[2]/h2[1]",
+    "junDQ": "//div[3]/div[1]/div[8]/div[1]/div[2]/h2[1]",
+    "mayDQ": "//div[3]/div[1]/div[9]/div[1]/div[2]/h2[1]",
+    "aprDQ": "//div[3]/div[1]/div[10]/div[1]/div[2]/h2[1]",
+    "marDQ": "//div[3]/div[1]/div[11]/div[1]/div[2]/h2[1]",
+    "febDQ": "//div[3]/div[1]/div[12]/div[1]/div[2]/h2[1]",
+    "janDQ": "//div[3]/div[1]/div[13]/div[1]/div[2]/h2[1]",
+
+    "decPS": "//div[3]//div[1]//div[2]/div[1]//h3[contains(text(),'December')]",
+    "novPS": "//div[3]//div[1]//div[3]/div[1]//h3[contains(text(),'November')]",
+    "octPS": "//div[3]//div[1]//div[4]/div[1]//h3[contains(text(),'October')]",
+    "sepPS": "//div[3]//div[1]//div[5]/div[1]//h3[contains(text(),'September')]",
+    "augPS": "//div[3]//div[1]//div[6]/div[1]//h3[contains(text(),'August')]",
+    "julPS": "//div[3]//div[1]//div[7]/div[1]//h3[contains(text(),'July')]",
+    "junPS": "//div[3]//div[1]//div[8]/div[1]//h3[contains(text(),'June')]",
+    "mayPS": "//div[3]//div[1]//div[9]/div[1]//h3[contains(text(),'May')]",
+    "aprPS": "//div[3]//div[1]//div[10]/div[1]//h3[contains(text(),'April')]",
+    "marPS": "//div[3]//div[1]//div[11]/div[1]//h3[contains(text(),'March')]",
+    "febPS": "//div[3]//div[1]//div[12]/div[1]//h3[contains(text(),'February')]",
+    "janPS": "//div[3]//div[1]//div[13]/div[1]//h3[contains(text(),'January')]"  
+
+
+
+
+
+
+    	
+
+
+
 }
