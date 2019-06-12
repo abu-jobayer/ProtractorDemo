@@ -4,6 +4,8 @@ var DuckduckgoHomepage = require('../pages/pomDuckDuckGoHome.js');
 var DuckduckgoTrafic = require('../pages/pomDuckDuckGoTrafic.js');
 
 
+
+
 describe('AC: 6', function () {
 
   beforeEach(function () {
@@ -55,6 +57,29 @@ describe('AC: 7', function () {
     DuckduckgoTrafic.validate12MonthsPosition();
   });
 
+  it('And The Total Direct Queries should be equal to the sum of all the total directs from each month', function () {
+      //Get the Value of the Direct Queries
+      
+      var decDQ = element(by.xpath(datasource.decDQ)).getAttribute('value'),
+      novDQ = element(by.xpath(datasource.novDQ)).getAttribute('value'),
+      octDQ = element(by.xpath(datasource.octDQ)).getAttribute('value'),
+      sepDQ = element(by.xpath(datasource.sepDQ)).getAttribute('value'),
+      augDQ = element(by.xpath(datasource.augDQ)).getAttribute('value'),
+      julDQ = element(by.xpath(datasource.julDQ)).getAttribute('value'),
+      junDQ = element(by.xpath(datasource.junDQ)).getAttribute('value'),
+      mayDQ = element(by.xpath(datasource.mayDQ)).getAttribute('value'),
+      aprDQ = element(by.xpath(datasource.aprDQ)).getAttribute('value'),
+      marDQ = element(by.xpath(datasource.marDQ)).getAttribute('value'),
+      febDQ = element(by.xpath(datasource.febDQ)).getAttribute('value'),
+      janDQ = element(by.xpath(datasource.janDQ)).getAttribute('value'),
+      mainDQ = element(by.xpath(datasource.mainDQ)).getAttribute('value');
+
+      protractor.promise.all([decDQ, novDQ, octDQ, sepDQ, augDQ, julDQ, junDQ, mayDQ, aprDQ, marDQ, febDQ, janDQ, mainDQ]).then(function (values) {
+        expect(parseInt(values[0]) + parseInt(values[1]) + parseInt(values[2]) + parseInt(values[3]) + parseInt(values[4]) + parseInt(values[5]) + parseInt(values[6]) + parseInt(values[7]) + parseInt(values[8]) + parseInt(values[9]) + parseInt(values[10]) + parseInt(values[11])).toEqual(parseInt(values[12]));
+    });
+
+
+  });
 
 
 });

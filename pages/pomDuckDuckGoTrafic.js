@@ -46,15 +46,4 @@ module.exports = {
 
 
 
-    
-// element.all(by.css('span.badge.ng-binding')).get(0).getText().then(function (first) {
-//   console.log(first);
-
-//   element.all(by.css('span.badge.ng-binding')).get(1).getText().then(function (second) {
-//     console.log(second);
-
-//     element.all(by.css('span.badge.ng-binding')).get(2).getText().then(function (third) {
-//       console.log(third);
-
-
 };
