@@ -31,6 +31,6 @@
 		"jasmine-data-provider": "^2.2.0",
 		"path": "^0.12.7",
 		"promise": "^7.0.4",
-		"xlsx": "^0.14.1"
+		"xlsx": "^0.17.0"
 	}
 }
